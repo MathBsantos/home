@@ -78,7 +78,7 @@ title{
     text-align: center;
     display: block;
     margin-top: fixed;
-    border: 5px solid black;
-    border-style: dashed;
+    border: 3px dashed white;
+
 }
 
