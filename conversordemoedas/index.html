@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="conversor.css">
+    <script src="conversor.js"></script>
+    <title>
+      Matheus B. Santos - Conversor de Moedas Online
+    </title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="page-title">
+        Conversor de moedas
+      </h1>
+      <p class="page-subtitle">
+        Converta moedas com a cotação do dia
+      </p>
+
+          <div class="conversor">
+      <p class="meio">Valor:
+      <input type="number" name="textovalor" id="valor" step="0.01" placeholder="0.00">
+      <select class="selectMoeda" name="nomeMoeda" id="selectMoeda">
+          <option value="USD">Dólar</option>
+          <option value="EUR">Euro</option>
+          <option value="CAD">Dólar Canadense</option>
+          <option value="GBP">Libra Esterlina</option>
+      </select>
+  <button onclick="calcula()" id="btnSortear">Calcular</button>
+      </p> 
+          </div>
+    
+    
+    <p class="resposta" name="resposta" id="caixaResposta" text-align:center></p>
+    </div>
+   
+  </body>
+</html>
