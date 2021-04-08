@@ -1,2 +1,2 @@
 # home
-Home to my worl
+Home to my work
