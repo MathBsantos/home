@@ -12,10 +12,10 @@ body {
 
 
 title{
-    color: black;
+    color: #ffff44;
     font-weight: bold;
     font-size: 24px;
-    text-shadow: 2px 2px gold;  
+    text-shadow: 2px 2px black;  
 }
 
 .container {
@@ -25,18 +25,18 @@ title{
  }
 
 .page-title {
-    color: black;
+    color: #ffff44;
     font-weight: bold;
     font-size: 24px;
-    text-shadow: 2px 2px gold;
+    text-shadow: 2px 2px black;
     margin: 0 0 5px;
 }
 
 .page-subtitle {
-    color: black;
+    color: #ffff44;
     font-weight: bold;
     font-size: 24px;
-    text-shadow: 2px 2px gold;
+    text-shadow: 2px 2px black;
     margin-top: 5px;
 }
 
@@ -58,10 +58,10 @@ title{
   }
 
 .meio{
-    color: black;
+    color: #ffff44;
     font-weight: bold;
     font-size: 24px;
-    text-shadow: 2px 2px gold;
+    text-shadow: 2px 2px black;
     margin-left: auto;
     margin-right: auto;
     min-width: 500px;
@@ -69,10 +69,11 @@ title{
 }
 
 .resposta{
+    color: #ffff44;
     padding-top: 40px;
     font-weight: bold;
     font-size: 24px;
-    text-shadow: 2px 2px gold;
+    text-shadow: 2px 2px black;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
