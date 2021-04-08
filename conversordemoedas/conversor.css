@@ -78,5 +78,6 @@ title{
     text-align: center;
     display: block;
     margin-top: fixed;
+    border: 1px solid black;
 }
 
